@@ -21,17 +21,6 @@ Using zig master.
 ## Timing
 
 ```sh
-❱ time zcloc .
-Getting list of files
-Files to consider: 9
-Ignored files: 141
-Language        Files           Blank           Comment         Code
-
-Perl            1               701             1351            12403
-zig             6               42              67              315
-Python          1               133             74              472
-
-Sum             8               876             1492            13190
 ~/c/z/zcloc main• ❱ time zig-out/bin/zcloc .                                                                               (base)
 Getting list of files
 Files to consider: 9
