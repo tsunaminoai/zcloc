@@ -1,0 +1,4 @@
+*.pl
+examples/
+zig-cache/
+zig-out/
