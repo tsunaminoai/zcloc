@@ -21,7 +21,7 @@ Using zig master.
 ## Timing
 
 ```sh
-❱ time zig-out/bin/zcloc .                                                                               (base)
+❱ time zig-out/bin/zcloc .
 Getting list of files
 Files to consider: 9
 Ignored files: 141
