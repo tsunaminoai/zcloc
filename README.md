@@ -1,6 +1,6 @@
 # zcloc
 
-An excersize in code-kitting to replace [cloc.pl](https://github.com/hrbrmstr/cloc) with zig.
+An exercise in code-kitting to replace [cloc.pl](https://github.com/hrbrmstr/cloc) with zig.
 
 ## Installation
 
